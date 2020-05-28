@@ -18,13 +18,13 @@ Data for the analysis is available at: [survey datasets](https://insights.stacko
 * Matplotlib
 * Numpy
 
-## Observation from analisys 
+## Observation 
 
 * Respondents from top countries have a maximum formal education of a Bachelor’s degree except in countries like Germany, France, Russia, Ukraine, and Poland Respondents having formal education of Master’s degrees are more than a Bachelor’s Degree.
 
-* Distracting/toxic work environment is most significant challenges faced by Developers and they also don't like to work on not-development tasks 
+* Distracting/toxic work environment is the most significant challenges faced by Developers and they also don't like to work on not-development tasks 
 
-* We observed that Programming Languages I’d be working with, office environment of company culture, and flex-time were the most promising job factors developers would consider if they got job offer from two companies, which provides the same Compensation, benefits, and location and most developers did not consider factors like the diversity of the company, the department I’d be working on, and the funding status of the company.
+* We observed that Programming Languages I’d be working with, office environment of company culture, and flex-time were the most promising job factors developers would consider if they got a job offer from two companies, which provides the same Compensation, benefits, and location and most developers did not consider factors like the diversity of the company, the department I’d be working on, and the funding status of the company.
 
 ## Acknowledgments
 
