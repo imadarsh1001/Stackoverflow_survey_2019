@@ -1,4 +1,4 @@
-# Stackoverflow_survey_2019
+# Interesting Trends have seen on Stack Overflow Survey 2019
 
 The motivation behind this project is to use to carry out an EDA analysis of the 2019 Stack Overflow Developer Survey Data analysis to uncover answers to the following crucial questions:
 * What is the highest level of formal education from top respondent countries?
@@ -17,6 +17,14 @@ Data for the analysis is available at: [survey datasets](https://insights.stacko
 * seaborn
 * Matplotlib
 * Numpy
+
+## Observation from analisys 
+
+* Respondents from top countries have a maximum formal education of a Bachelor’s degree except in countries like Germany, France, Russia, Ukraine, and Poland Respondents having formal education of Master’s degrees are more than a Bachelor’s Degree.
+
+* Distracting/toxic work environment is most significant challenges faced by Developers and they also don't like to work on not-development tasks 
+
+* We observed that Programming Languages I’d be working with, office environment of company culture, and flex-time were the most promising job factors developers would consider if they got job offer from two companies, which provides the same Compensation, benefits, and location and most developers did not consider factors like the diversity of the company, the department I’d be working on, and the funding status of the company.
 
 ## Acknowledgments
 
